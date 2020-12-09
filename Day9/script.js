@@ -69,5 +69,5 @@ function input_day()
 
 // common problems
 //  -  infinite loops
-//  -  infinite recurention
+//  -  infinite recursion
 //  -  reading wrong indeks (especially in part1 - creapy index calculation)
